@@ -6,8 +6,7 @@ const CartWidget = ()=> {
     return(
         <>
        <BiCart /> 
-      {/* <img src="https://static.vecteezy.com/system/resources/previews/014/530/490/non_2x/shopping-cart-outline-icon-vector.jpg" alt="icono carrito" width={50} /> */}
-      <p>1</p>
+          <p>1</p>
     </>
       )
 
